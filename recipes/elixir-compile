@@ -1,0 +1,3 @@
+(elixir-compile
+ :fetcher git
+ :url "https://git.sr.ht/~sokolov/elixir-compile")
